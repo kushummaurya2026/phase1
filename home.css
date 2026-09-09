@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+}
+
+header {
+    background-color: beige;
+    color: black;
+    text-align: center;
+    height: 200pxpx;
+    font-size: large;
+}
+
+nav ul li a {
+    font-size: larger;
+    color: blue;
+    font-weight: lighter;
+}
+nav {
+    color: black;
+}
+
+section {
+    font-weight: lighter;
+    font-size: larger;
+}
+h2 {
+   color: black;
+   font-style: italic;
+   font-size: larger;
+}
+
+footer {
+    background-color:rosybrown;
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
